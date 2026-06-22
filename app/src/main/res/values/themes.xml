@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.SalesTrack" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/text_white</item>
+        
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/success</item>
+        <item name="colorSecondaryVariant">@color/success</item>
+        <item name="colorOnSecondary">@color/text_white</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/primary</item>
+        <!-- Window background. -->
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>

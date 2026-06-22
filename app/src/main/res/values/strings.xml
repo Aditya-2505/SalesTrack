@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SalesTrack</string>
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to track your sales mileage</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="loading">Loading...</string>
+    
+    <!-- Salesperson Home -->
+    <string name="today">Today</string>
+    <string name="km_driven_title">KM driven today</string>
+    <string name="times_out_title">Times out today</string>
+    <string name="today_trips_title">Today\'s Trip Log</string>
+    
+    <!-- Camera / Confirm -->
+    <string name="odometer_title">Verify Odometer</string>
+    <string name="confirm_odometer_reading">Confirm detected odometer reading:</string>
+    <string name="btn_confirm">Confirm</string>
+    <string name="btn_edit_manually">Edit Manually</string>
+    <string name="manual_input_hint">Enter Odometer KM</string>
+    <string name="btn_save">Save</string>
+    
+    <!-- Manager Dashboard -->
+    <string name="manager_dashboard_title">Manager Dashboard</string>
+    <string name="salesperson_list_title">Sales Team Today</string>
+    <string name="no_entries_yet">No entries yet</string>
+</resources>
